@@ -17,7 +17,7 @@ public class example_script : MonoBehaviour {
 #endif
 		// Draws a single image in a square the size of the screen
 		int width = Screen.width;
-		int height = Screen.height;
+		int height = Screen.height;error
 		int left = 0;
 		int top  = 0;
 
