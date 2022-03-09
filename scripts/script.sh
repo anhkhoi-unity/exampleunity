@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Hello World!"
-node hello.js 
+echo "(Unexpected termination of the channel)."
