@@ -19,7 +19,7 @@ public class example_script : MonoBehaviour {
 		int width = Screen.width;
 		int height = Screen.height;error
 		int left = 0;
-		int top  = 0;
+		int top  = 0;test
 
 		if (width > height)
 			width = height;
