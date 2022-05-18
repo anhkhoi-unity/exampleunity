@@ -1,1 +1,5 @@
-export_options({ manageAppVersionAndBuildNumber: false })
+export_options(
+    provisioningProfiles: {
+        "com.unity3d.cloudbuild.base.stickers" => "1e33640e-9a55-4357-a632-ca6c48a53a96"
+    }
+)
