@@ -1,1 +1,1 @@
-export_options({ "manageAppVersionAndBuildNumber": false })
+export_options({ manageAppVersionAndBuildNumber: false })
