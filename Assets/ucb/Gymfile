@@ -1,6 +1,1 @@
-export_options(
-    manageAppVersionAndBuildNumber: false,
-    provisioningProfiles: {
-        "manageAppVersionAndBuildNumber" => "1e33640e-9a55-4357-a632-false"
-    }
-)
+export_options("./ExportOptions.plist")
