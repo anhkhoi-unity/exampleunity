@@ -3,6 +3,7 @@
 
 using UnityEngine;
 using System.Collections;
+using com.mycompany.helloworld;
 
 public class example_script : MonoBehaviour {
 
@@ -20,6 +21,7 @@ public class example_script : MonoBehaviour {
 		int height = Screen.height;
 		int left = 0;
 		int top  = 0;
+		HelloWorld.Start();
 
 		if (width > height)
 			width = height;
