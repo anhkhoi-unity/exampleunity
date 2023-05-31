@@ -8,7 +8,7 @@ esac
 
 echo ${path}
 
-echo "[scopedRegistries]" > ${path}
+echo "[[scopedRegistries]]" > ${path}
 echo "[scopedRegistries.github]" >> ${path}
 echo "name = \"My GitHub Packages\"" >> ${path}
 echo "url = \"https://github.com/anhkhoi-unity/PrivateUnityPackage.git\"" >> ${path}
