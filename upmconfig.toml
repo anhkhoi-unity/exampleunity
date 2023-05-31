@@ -1,0 +1,6 @@
+[scopedRegistries]
+  [scopedRegistries.github]
+    name = "My GitHub Packages"
+    url = "https://github.com/anhkhoi-unity/PrivateUnityPackage.git"
+    scopes = ["com.mycompany.helloworld"]
+
