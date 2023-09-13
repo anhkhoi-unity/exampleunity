@@ -1,3 +1,3 @@
-python test.py
+/usr/bin/python test.py
 which pip
 which python
