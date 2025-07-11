@@ -8,7 +8,7 @@ using System;
 /// Pre-Export Debug Test - This script runs BEFORE Unity builds the player
 /// In Unity 6+, formatted Debug.Log calls should appear as empty lines in Unity Cloud Build logs
 /// </summary>
-public class PreExportDebugTest : IPreprocessBuildWithReport
+public class PreExportDebugTest_DISABLED // : IPreprocessBuildWithReport
 {
     public int callbackOrder => 0;
 
